@@ -1,5 +1,5 @@
-Monitoring design for mosquito control;
-Power analysis for estimating mosquito control efficacy R scripts;
+Power analysis for estimating mosquito control efficacy R scripts
+
 Scripts created by Helen Sofaer
 
 	
